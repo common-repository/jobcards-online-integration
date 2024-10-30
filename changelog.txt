@@ -1,0 +1,45 @@
+06.01.2022 - ver 3.1
+  - Bugfix: fixed a select2 conflict
+
+28.03.2022 - ver 3.2
+  - Bugfix: Fixed bug where wrong item price was taken on variants
+  - Feature: Added function to log data to file in backend
+
+28.03.2022 - ver 3.3
+  - Bugfix: ClientID key Fix and Ajax Redirect fix
+
+30.03.2022 - ver 3.4
+  - Feature: Added support for variable attributes in Invoice Lines.
+
+30.03.2022 - ver 3.5
+  - Bugfix: Fixed a variation bug
+
+15.06.2023 - ver 4.0
+  - Compatibility with latest wordpress coding standards.
+
+15.06.2023 - ver 4.1
+  - Bugfix: Code crash
+
+15.06.2023 - ver 4.2
+  - Bugfix: Code crash
+
+21.06.2023 - ver 4.3
+  - Bugfix: Pro-forma invoices now correctly convert
+
+28.08.2023 - ver 4.4
+  - Bugfix: Plugin now works correctly with themes that use Woocommerce Blocks
+
+28.08.2023 - ver 4.5
+  - Bugfix: Display of past order invoices now works as expected
+
+28.08.2023 - ver 4.6
+  - Bugfix: Display of past order invoices test for array
+
+07.09.2023 - ver 4.7
+  - Bugfix: Wrong client details used
+
+07.09.2023 - ver 4.8
+  - Bugfix: Working on Block themes & non-block themes
+
+27.07.2024 - ver 4.9
+  - Bugfix: Fixed conflict with wordpress javascript
